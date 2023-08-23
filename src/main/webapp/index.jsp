@@ -11,7 +11,7 @@
 </style>
 </head>
 <body>
-<h1>Heli, balu gowdre!</h1>
+<h1>Heli, putte gowdre!</h1>
 <p>This is a sample "Hello, World!" application for 2028 April Batch.</p>
 </body>
 </html>
